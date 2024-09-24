@@ -1,0 +1,12 @@
+org\example\common\util\BuilderUtil.class
+org\example\common\dtos\BaseResponse$BaseResponseBuilder.class
+org\example\common\message\InventoryMessage.class
+org\example\common\message\OrderNotEnoughInventory$OrderNotEnoughInventoryBuilder.class
+org\example\common\message\OrderNotEnoughInventory.class
+org\example\common\util\JsonUtil.class
+org\example\common\exception\NotEnoughInventoryItemException.class
+org\example\common\message\InventoryMessage$InventoryMessageBuilder.class
+org\example\common\exception\BadOrderRequestException.class
+org\example\common\message\CheckoutInventoryMessage$CheckoutInventoryMessageBuilder.class
+org\example\common\message\CheckoutInventoryMessage.class
+org\example\common\dtos\BaseResponse.class

@@ -6,6 +6,18 @@
       <list>
         <option value="$PROJECT_DIR$/order-service/pom.xml" />
         <option value="$PROJECT_DIR$/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/invertory/pom.xml" />
+        <option value="$PROJECT_DIR$/shipment/pom.xml" />
+        <option value="$PROJECT_DIR$/choreography/choreography-inventory-service/pom.xml" />
+        <option value="$PROJECT_DIR$/choreography/choreography-customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/choreography/choreography-payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/choreography/choreography-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/choreography/choreography-shipment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/orchestration/orchestration-invertory-service/pom.xml" />
+        <option value="$PROJECT_DIR$/orchestration/orchestration-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/orchestration/orchestration-payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/orchestration/orchestration-shipment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/choreography/common/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,8 @@
+C:\Data\Personal\spring-boot-saga-pattern\choreography\common\src\main\java\org\example\common\dtos\BaseResponse.java
+C:\Data\Personal\spring-boot-saga-pattern\choreography\common\src\main\java\org\example\common\message\OrderNotEnoughInventory.java
+C:\Data\Personal\spring-boot-saga-pattern\choreography\common\src\main\java\org\example\common\message\InventoryMessage.java
+C:\Data\Personal\spring-boot-saga-pattern\choreography\common\src\main\java\org\example\common\util\BuilderUtil.java
+C:\Data\Personal\spring-boot-saga-pattern\choreography\common\src\main\java\org\example\common\exception\BadOrderRequestException.java
+C:\Data\Personal\spring-boot-saga-pattern\choreography\common\src\main\java\org\example\common\exception\NotEnoughInventoryItemException.java
+C:\Data\Personal\spring-boot-saga-pattern\choreography\common\src\main\java\org\example\common\message\CheckoutInventoryMessage.java
+C:\Data\Personal\spring-boot-saga-pattern\choreography\common\src\main\java\org\example\common\util\JsonUtil.java
